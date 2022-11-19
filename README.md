@@ -1,1 +1,1 @@
-"# Templator-templates" 
+# Templator-templates
